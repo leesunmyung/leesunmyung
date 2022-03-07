@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RiMS(Research in Intelligent Mobility Systems) Laboratory.
+- 🔭 I’m currently working on [RiMS(Research in Intelligent Mobility Systems)](https://sites.google.com/view/drshin/home) Laboratory.
 - ✏ I’m currently learning Robotics & Autonomous Vehicle.
 - 🎯 I'm interested in DL/ML, Sensor-Fusion and Perception of Autonomous Driving.
 - 👩‍💻 I'm mainly programming with Python or C/C++.
