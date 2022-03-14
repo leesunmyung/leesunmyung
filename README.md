@@ -1,6 +1,7 @@
 
 ### 🔖 Research Area
 
+- 🏫 I'm majoring in Computer Science.
 - 🔭 I’m currently working on [RiMS(Research in Intelligent Mobility Systems)](https://sites.google.com/view/drshin/home) Laboratory.
 - ✏ I’m currently learning Robotics & Autonomous Vehicle.
 - 🎯 I'm interested in DL/ML, Sensor-Fusion and Perception of Autonomous Driving.
@@ -15,6 +16,12 @@
 ### 🔑 Work Experience
 - Vice-president in 15th [Kwanjeong Education Foundation](http://www.ikef.or.kr/)
 - Part Leader of Perception in 2021 [International Student Car Competition](http://kasa.hihompy.co.kr/cev/index.php)
+
+
+
+### 🎮 Familiar Platform
+- Radio Controlled Car, Drone, Arduino, etc.
+
 
 
 
