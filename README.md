@@ -20,7 +20,6 @@
 
 ### 🔑 Work Experience
 - Part leader of Perception in [International Student Car Competition](http://kasa.hihompy.co.kr/cev/index.php) (2021)
-- Math and Physics mentor in secondary education (2022)
 - Undergraduate vice-president scholar in 15th [Kwanjeong Educational Foundation](http://www.ikef.or.kr/) (2020-2022)
 
 
