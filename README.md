@@ -14,8 +14,8 @@
 
 
 ### 🔑 Work Experience
-- Vice-president in 15th [Kwanjeong Education Foundation](http://www.ikef.or.kr/)
-- Part Leader of Perception in 2021 [International Student Car Competition](http://kasa.hihompy.co.kr/cev/index.php)
+- Part Leader of Perception in [International Student Car Competition](http://kasa.hihompy.co.kr/cev/index.php) (2021)
+- Undergraduate vice-president scholar in 15th [Kwanjeong Education Foundation](http://www.ikef.or.kr/) (2020-2022)
 
 
 
