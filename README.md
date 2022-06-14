@@ -1,7 +1,7 @@
 
 ### 🔖 Research Area
 
-- 🏫 I'm majoring in Computer Science.
+- 🏫 I'm majoring in **Computer Science**.
 - 🎯 I'm focused on **Future Mobility with Human Interaction**.
 - ✏ Especially, I’m currently learning **Robotics & Autonomous Vehicle**.
 - 🔭 I worked in [**RiMS(Research in Intelligent Mobility Systems)**](https://sites.google.com/view/drshin/home) **Lab**. (2020.09-Current)
@@ -13,15 +13,15 @@
 
 
 ### 🕑 Data used
-- Vehicle Chassis (Control Area Network)
 - RGB, CCD Camera
-- LiDAR Point Clouds
+- LiDAR, Radar Point Clouds
+- Vehicle Chassis through Control Area Network
 
 
 ### 🔑 Work Experience
 - Part leader of Perception in [International Student Car Competition](http://kasa.hihompy.co.kr/cev/index.php) (2021)
+- Math and Physics mentor in secondary education (2022)
 - Undergraduate vice-president scholar in 15th [Kwanjeong Educational Foundation](http://www.ikef.or.kr/) (2020-2022)
-
 
 
 ### 🎮 Familiar Platform
