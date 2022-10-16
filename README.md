@@ -1,9 +1,8 @@
 
 ### 🔖 Research Area
 
-- 🏫 I'm majoring in **Computer Science**.
-- 🎯 I'm focused on **Future Mobility with Human Interaction**.
-- ✏ I’m currently learning **Robotics & Autonomous Vehicle**.
+- 🏫 I'm majoring in **Computer Science**, focused on **Future Mobility**.
+- 🚗 I’m currently learning **Robotics & Autonomous Vehicle**.
 - 🔭 I'm an intern researcher in [**SUM(Smart yoUr Mobility)**](http://www.smobi.ai/) at SNU FMTC, Siheung. (2022.07-Current)
 - ✨ I'm interested in **DL/ML**, **Sensor Processing** and **Perception of Autonomous Driving**.
 - 📷 I'm dealing with ADAS Sensors such as **Camera**, **LiDAR** and **Radar**.
