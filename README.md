@@ -6,7 +6,7 @@
 - 📷 I'm dealing with ADAS Sensors such as **Camera**, **LiDAR** and **Radar**.
 
 ### 🏫 Education
-- Korea Advanced Institute of Science and Technology, [**VDC(Vehicular Systems Design and Control)**](http://vdclab.kaist.ac.kr/) **Lab** (~Current)
+- Korea Advanced Institute of Science and Technology, [**VDC(Vehicular Systems Design and Control)**](http://vdclab.kaist.ac.kr/) **Lab** (2023~Current)
 - Sookmyung Women's University, B.S. in Computer Science (2018~2022)
 
 ### 🔑 Work Experience
