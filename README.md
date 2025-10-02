@@ -24,5 +24,5 @@
 
 ### 📩 Contact
 
-- How to reach me: vividlee@kaist.ac.kr
+- How to reach me: seonmyeong.lee@kaist.ac.kr
 - Fun fact: I adore cute things. 🐕🐈
